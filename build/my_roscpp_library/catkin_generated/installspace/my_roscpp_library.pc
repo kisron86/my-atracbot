@@ -1,0 +1,8 @@
+prefix=/home/kisron/catkin_workspace/install
+
+Name: my_roscpp_library
+Description: Description of my_roscpp_library
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib -lmy_roscpp_library
+Requires: roscpp

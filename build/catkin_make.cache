@@ -1,0 +1,2 @@
+beginner_tutorials:my_roscpp_library:vision
+-DCATKIN_DEVEL_PREFIX=/home/kisron/catkin_workspace/devel -DCMAKE_INSTALL_PREFIX=/home/kisron/catkin_workspace/install -G Unix Makefiles
